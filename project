@@ -26,3 +26,5 @@ trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@172.67.171.131:8443?security=tls&s
 trojan://redfree8@104.17.148.22:80?type=ws&host=redfree8-p1.pooriashop.ir&path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560#%F0%9F%94%92%20TR-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.17.148.22%3A80
 trojan://9486ff17-2481-40c7-a5c4-d0d307de2509@172.67.204.75:443?security=tls&sni=zzzzzzzzzzzzcd.818185.xyz&alpn=http%2F1.1&fp=chrome&type=ws&host=zzzzzzzzzzzzcd.818185.xyz&path=%2FORgwL4kEvW32T1dU239ar#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.204.75%3A443
 trojan://0f7070cd-c91d-4532-a51f-56da4f0e94be@172.67.157.254:443?security=tls&sni=uuujjnmm.444752.xyz&alpn=http%2F1.1&fp=chrome&type=ws&host=uuujjnmm.444752.xyz&path=%2FctHoQlqeZn8pbEUSLppj7jCmY#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.157.254%3A443
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?encryption=none&security=none&type=grpc#Telegram%20%7C%20%40FNET00%F0%9F%93%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#Telegram%20%7C%20%40FNET00%F0%9F%93%B1%20%F0%9F%87%B3%F0%9F%87%B1
